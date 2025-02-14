@@ -1,5 +1,5 @@
-![Alt text](![image](https://github.com/user-attachments/assets/100740f1-84e9-4586-9bb1-c8e320d0231c)
-)
+![Alt text](https://raw.githubusercontent.com/Guppi4/Classification_of_Stars-Galaxie-and_Quasars_DS/refs/heads/main/scale_1200-2-7-1024x1024.jpg.webp)
+
 
 
 
