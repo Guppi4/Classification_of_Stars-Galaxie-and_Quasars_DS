@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Star, Galaxy, and Quasar Classification
 
 This repository demonstrates a step-by-step data science project for classifying astronomical objects (stars, galaxies, and quasars) using a dataset from the Sloan Digital Sky Survey (SDSS). The code follows a **10-section** structure, with each section focusing on a specific phase of the pipeline: data preprocessing, training multiple models, clustering, interpreting feature importance, and investigating redshift distributions.
