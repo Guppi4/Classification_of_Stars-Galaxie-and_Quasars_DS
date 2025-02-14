@@ -98,7 +98,7 @@ This repository demonstrates a step-by-step data science project for classifying
 
 ## License and Credits
 - **Data** sourced from the [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/).  
-- **Project** developed by [Your Name].  
-- Licensed under [MIT] or whichever license you choose.
+- **Project** developed by Perevalov Kirill 
+.
 
 ---
