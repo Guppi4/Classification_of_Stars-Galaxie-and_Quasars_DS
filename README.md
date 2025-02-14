@@ -1,4 +1,4 @@
-![Alt text]([https://www.google.com/url?sa=i&url=https%3A%2F%2F21mm.ru%2Fnews%2Fnauka%2Fuchenye-ispolzovali-polyarizatsiyu-sveta-chtoby-izuchit-strukturu-kvazara-%2F&psig=AOvVaw0EXuiNXE4sV5S8Ya9yuAXG&ust=1739628310274000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCnptKqw4sDFQAAAAAdAAAAABAK](https://images.app.goo.gl/YNkTq4KZjAwoPjbB7)](https://21mm.ru/upload/resize_cache/iblock/b4a/658_9999_1/b4a5b9e3924d7d7dbc15a5e26fa8293f.jpg))
+[![Alt text]([https://www.google.com/url?sa=i&url=https%3A%2F%2F21mm.ru%2Fnews%2Fnauka%2Fuchenye-ispolzovali-polyarizatsiyu-sveta-chtoby-izuchit-strukturu-kvazara-%2F&psig=AOvVaw0EXuiNXE4sV5S8Ya9yuAXG&ust=1739628310274000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCnptKqw4sDFQAAAAAdAAAAABAK](https://images.app.goo.gl/YNkTq4KZjAwoPjbB7)](https://21mm.ru/upload/resize_cache/iblock/b4a/658_9999_1/b4a5b9e3924d7d7dbc15a5e26fa8293f.jpg))](https://21mm.ru/upload/resize_cache/iblock/b4a/658_9999_1/b4a5b9e3924d7d7dbc15a5e26fa8293f.jpg)
 
 
 # Star, Galaxy, and Quasar Classification
