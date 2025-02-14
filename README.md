@@ -1,5 +1,4 @@
-![Alt text](path_or_URL_to_image "Optional Title")
-
+https://github.com/Guppi4/Classification_of_Stars-Galaxie-and_Quasars_DS/blob/d9473d5ce13adde1b5f589a633cac3fd6702ab0c/scale_1200-2-7-1024x1024.jpg
 
 
 # Star, Galaxy, and Quasar Classification
